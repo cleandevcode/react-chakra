@@ -22,7 +22,7 @@ import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 const Links = [
   {
     title: "PRICING",
-    link: "/pricincg",
+    link: "/pricing",
   },
   {
     title: "LOCATIONS",
