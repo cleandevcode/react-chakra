@@ -12,12 +12,12 @@ export default function PackageCard() {
     >
       <HStack alignContent="center" justifyContent="space-between">
         <VStack color="white">
-          <Text fontSize={18}>Cremation package for</Text>
-          <Text fontSize={28}>Toronto & GTA</Text>
+          <Text fontSize={16}>Cremation package for</Text>
+          <Text fontSize={26}>Toronto & GTA</Text>
         </VStack>
         <VStack color="white">
-          <Text fontSize={36}>$1,675</Text>
-          <Text fontSize={18}>Total including tax</Text>
+          <Text fontSize={32}>$1,675</Text>
+          <Text fontSize={16}>Total including tax</Text>
         </VStack>
       </HStack>
       <HStack alignItems="center" justifyContent="center" mt={10}>

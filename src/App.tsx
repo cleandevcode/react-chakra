@@ -1,9 +1,7 @@
-import React from "react";
 import { ChakraProvider } from "@chakra-ui/react";
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/Header";
-import { BrowserRouter, Routes, Route, Navigate, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
 import PricingPage from "./pages/PricingPage";
